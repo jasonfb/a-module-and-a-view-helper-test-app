@@ -2,5 +2,4 @@
 
 Test app for "A Module and a View Helper" blog post:
 
-<a href="http://www.jasonfleetwoodboldt.com/writing/2017/02/12/a-module-and-view-helper/">http://www.jasonfleetwoodboldt.com/writing/2017/02/12/a-module-and-view-helper/</a>.
-
+http://www.jasonfleetwoodboldt.com/writing/2017/02/12/a-module-and-view-helper
